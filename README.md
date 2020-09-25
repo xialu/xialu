@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🚀 I'm a Software Engineer focused on Web 💻 and MicroService 🌍.
+
+🌱 I'm currently learning Flutter.
+
+![](https://github-readme-stats.vercel.app/api?username=qqtv&show_icons=true&theme=graywhite)
+
 <!--
 **xialu/xialu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
